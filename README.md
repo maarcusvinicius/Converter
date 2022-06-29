@@ -37,17 +37,17 @@ Conversor de moedas BRL para EUR CAD USD, facilitar questões do usuário com co
 
 <br>
 
-<h2 id="Acesso">📁 Acesso ao projeto React</h2>
+<h2>📁 Acesso ao projeto React</h2>
 
-### `download this project`
+`download this project`
 
 Abra o repositorio e baixe [https://github.com/maarcusvinicius/Converter](https://github.com/maarcusvinicius/Converter)
 
 <br>
 
-<h2 id="Acesso">🎡 Abrir e rodar o projeto <h2>
+<h2 id="Acesso">🎡 Abrir e rodar o projeto</h2>
 
-### `npm run dev`
+`npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -63,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img align="center" alt="Marcu-Js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Marcu-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-    
+
 </div>
 
 
