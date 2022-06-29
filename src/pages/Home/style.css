@@ -1,0 +1,19 @@
+*{
+    background-color: #0e1217;
+}
+
+.linha {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.App {
+    margin: auto;
+    max-width: 900px;
+}
