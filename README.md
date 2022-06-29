@@ -1,6 +1,6 @@
 <h1 align="center">Converter 🪙</h1>
 
-<p align="center">🚀 Conversor de moedas feito com Vite ReactJS</p>
+<p align="center">🚀 Programa de conversão de moedas com feito com Vite ReactJS trabalhando com uma API</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
