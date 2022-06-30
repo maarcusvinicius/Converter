@@ -1,6 +1,7 @@
 <h1 align="center">Converter 🪙</h1>
 
 <p align="center">🚀 Programa de conversão de moedas com feito com Vite ReactJS trabalhando com uma API</p>
+<p align="center">🔮Futuro desse projeto para mim será um desafio! Penso em continua-lo criando uma interação melhor com o usuário, ele mesmo selecionar qual moeda ele deseja converter! Acompanhe comigo no meu github para ver esse projeto crescer!</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
