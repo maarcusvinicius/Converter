@@ -93,6 +93,7 @@ Me aprofundar mais em Hooks do React, CSS, e Javascript para aprimoração de DO
 
 <br />
 
+<<<<<<< HEAD
 Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!
 
 
@@ -129,3 +130,13 @@ Sou Desenvolvedor Web, um programador procurando fazer a diferença no mundo dig
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
 [![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
+=======
+<br>
+<div align="center">  
+#NextLevel
+#NeverStopLearning
+#NewSkills
+#StepByStep
+#MissionAccomplished
+</div>
+>>>>>>> d4107b885fea8ac950d45464d17924dca156fb32
