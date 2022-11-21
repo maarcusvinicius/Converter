@@ -1,89 +1,131 @@
 <h1 align="center">Converter 🪙</h1>
 
-<p align="center">🚀 Programa de conversão de moedas com feito com Vite ReactJS trabalhando com uma API</p>
+<p align="center">🔥 Programa de conversão de moedas com feito com Vite ReactJS trabalhando com uma API</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#acesso">Acesso</a> • 
- <a href="#tecnologias">Tecnologias</a>
+ <a href="#-executar">Como executar</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-projeto">Projeto</a> • 
+ <a href="#-objetivo">Objetivo</a> • 
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
-<h2 id="objetivo">✅ Objetivo </h2>
+<br />
 
-Conversor de moedas BRL para EUR CAD USD, facilitar questões do usuário com componentes sempre atualizados!!
+## 💻 Version Web
 
-<h2 id="roadmap">🐱‍🏍 Roadmap</h2>
+<br />
 
-  - [x] Criar Index
-
-  - [x] Criar CSS
-
-  - [x] Criar JS
-
-  - [x] Versão desktop
-
-  - [ ] Versão mobile
-
-  - [ ] White Mode
-
-  - [ ] Postar site no ar
-
-  - [x] Relatório README completo
-
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/Screenshot.png">
-</h1>
-
-<br>
-
-<h2 id="acesso">📁 Acesso ao projeto React</h2>
-
-`download this project`
-
-Abra o repositorio e baixe [https://github.com/maarcusvinicius/Converter](https://github.com/maarcusvinicius/Converter)
-
-<br>
-
-<h2>🎡 Abrir e rodar o projeto</h2>
-
-`npm run dev`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-<br>
-
-<h2 id="tecnologias"> 🛠 Tecnologias </h2>
-
-As seguintes ferramentas foram usadas na construção do projeto:
-<br><br>
-<div align="center">
-  <img align="center" alt="Marcu-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcu-React" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Marcu-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
+<div id="layout" align="center">
+  <p align="stretch">
+    <img align="center" height="200" alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/Screenshot.png">
+  </p>
 </div>
 
+<br />
 
-<br><br>
+## 🚀 Como executar
+
+Clone o repositório e acesse a pasta.
+
+```bash
+$ git clonehttps://github.com/maarcusvinicius/Converter.git
+
+Para iniciar o projeto:
+
+# Instalar as dependências
+$ npm install / yarn
+
+# Iniciar o projeto
+$ npm run / yarn run
+```
+A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
+
+<br />
+
+## 🔧 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+<br />
+
+## 💻 Projeto
+
+O Converter é um projeto que simula uma conversão de money via Web, entre USD, CAD EUR para BRL e vice versa, onde é possível verificar o valor atual por conta de uma conexão API que estou utilizando de terceiros!
+
+<br />
+
+## ✅ Objetivo
+
+Me aprofundar mais em Hooks do React, CSS, e Javascript para aprimoração de DOM para de futuros projetos, acessível e de fácil compreensão!!
+ 
+<br />
+
+## 🏍️ Roadmap
+
+    - [x] Criar Index
+
+    - [x] Criar CSS
+
+    - [x] Criar JS
+
+    - [x] Versão desktop
+
+    - [ ] Versão mobile
+
+    - [ ] White Mode
+
+    - [ ] Deploy
+
+    - [x] Relatório README completo
+
+<br>
+
 <h4 align="center"> 
-	✅  Converter 🪙 FINALIZADO  ✅
+	🚧  Converter 🪙 FINALIZADO  🚧
 </h4>
-<br>
-<p align="center">Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!</p>
+<br />
 
-<div align="center">  
-  <a href = "mailto:marcus.editor77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/marcus-vinicius-507718228/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<br />
 
-<br>
-<div align="center">  
-#NextLevel
-#NeverStopLearning
-#NewSkills
-#StepByStep
-#MissionAccomplished
-</div>
+Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//feito readme marcus 
+
+
+### Olá, sou Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+
+Sou Desenvolvedor Web, um programador procurando fazer a diferença no mundo digital. [**Profile Github**](https://github.com/maarcusvinicius). 🚀
+
+#### Minhas ferramentas atuais
+📲 Front-end Mobile com React Native  
+🌎 Front-end Web com Reactjs  
+📡 Back-end com Nodejs  
+🛠️ Typescript  
+🧰 And more...  
+
+
+#### 💬 Encontre-me em outro lugar
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
+[![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
