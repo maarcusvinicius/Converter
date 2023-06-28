@@ -28,20 +28,19 @@ Test yourself!!🔎 https://converter-brl.vercel.app/
 
 ## 🎡 Functionalities
 
-- Currency Conversion: Users can convert monetary values between different currencies, such as USD, CAD, EUR and BRL, using the project interface.
+- Currency Conversion: Users can convert monetary values between different currencies, such as USD, CAD, EUR and BRL, using the project interface
 
-- Up-to-date exchange rates: The project uses the AwesomeAPI connection to get up-to-date exchange rates, ensuring that conversions are accurate.
+- Up-to-date exchange rates: The project uses the AwesomeAPI connection to get up-to-date exchange rates, ensuring that conversions are accurate
 
-- Intuitive interface: The project's interface is designed to be accessible and easy to understand, allowing users to perform conversions intuitively and quickly.
+- Intuitive interface: The project's interface is designed to be accessible and easy to understand, allowing users to perform conversions intuitively and quickly
 
-- Improvement in React Hooks: The project uses React Hooks to manage the state and logic of the application, improving knowledge in these key functionalities of React.
+- Improvement in React Hooks: The project uses React Hooks to manage the state and logic of the application, improving knowledge in these key functionalities of React
 
-- Styling with CSS: The project uses CSS to style and customize the interface, allowing for a nice and coherent appearance.
+- Styling with CSS: The project uses CSS to style and customize the interface, allowing for a nice and coherent appearance
 
-- DOM Manipulation: The project uses JavaScript to manipulate the DOM and dynamically update the converted values based on the inputs of the
-user.
+- DOM Manipulation: The project uses JavaScript to manipulate the DOM and dynamically update the converted values based on the inputs of the user
 
-- DOM Manipulation: The project uses JavaScript to manipulate the DOM and dynamically update converted values based on user input.
+- DOM Manipulation: The project uses JavaScript to manipulate the DOM and dynamically update converted values based on user input
 
 <br />
 
@@ -123,6 +122,17 @@ Converter/
 
 - `main.jsx`: Main project file, responsible for rendering the application.
 
+<br />
+
+## License
+
+<p>
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify and distribute it as needed.
+
+</p>
+
+<br />
 <br />
 <br />
 <h4 align="center"> 
